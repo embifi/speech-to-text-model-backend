@@ -1,0 +1,13 @@
+ {
+    "type": "service_account",
+    "project_id": "aadhaar-card-parsing",
+    "private_key_id": "0cadaa375cb8fac3d8a1d6f4ef19eb396073a62f",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDr93zH+uynK63G\nyzf99fnIys0p8AnBWX96dkVyS729OFOU7YIEvM9C6QQ7p5A/6RJnpgZWA34EuHON\nMVqOB2uP+P7lHfR54wE71f7X+YqoIE5IKiw3aeoWXdN4DMInOs59Ybl3m5YrXI8g\n3Zt6OMvfVnM9idgO5LLTgcV79wGg5L68BwZBjFS0UvqmMFfH79v19wSwcrmzCaO3\nWf0XdEt7/PwmQtB0C1CT3k6cLzlFXw7+zfa+GfoIMm3b4+sI2nLemdeYb6yQoPsJ\nNg2j5XOSdeohrRAkbGeTviSP206g7dRqt417WTfuIcSmqdKom5RH40I2RhHysyk/\nKmzO2tSZAgMBAAECggEAFFfHyC3XzSm015iZgSl9mVPykBUDokmm9dXQcuQYvYFn\no0U+mk30yF3yYXo2s2vSjGEB1tSCPsHwJFIG7ouxOD5NK0+DziZF6vSt/cyjqY7v\ncMVB/p0A82CvZIAlFOC7AJA2PxuIvMBEDp9MUiMnYF/Bm6KQn+gTiqx7bA6Fc2ta\nqKO2GpQR5DuejabLmBbPhyGrLHD7W+HGWgUFjZLmYL1ndeq53MwGzbfg5lHGnsuo\nf8kUYCbDDSSSJDeun/GFV/RyjGmBq/alxm5FpvymeKClFn9Snqy3MVhgb4eh3IiM\nULqhVJZh1Ya+VncmWLKGYYw7eu2VF4NMz66UBMPyiQKBgQD9I4AxbXF1pxRw+tC5\nIGoIxFrFoIVA9wlq3rFUfyNRuOhvLahGiy6aN93hXnvlbd2AbC6sWVfDNEuGyH5V\nrNnpuo4aAHvG4uHlBrbRNCn+w+1WYqeZPDSw7di2W+o2ODNBh0uyfHF3NsSdjtmb\nsY8+T6tfauMVHOu2h5WiYHcHqwKBgQDuokv8U1OrHPGQ87elOsLUSKoBtTXiuFMg\n12sltqc/X8VuSCi7DAcMuzY6CDRTua3+D1Vtre15zMKYvqz0Et2WweoZFI1P6KJ2\nShWR7JeYc/Q+9xigDGeoPJ2rd0Ta9irQFtmu/XfoxjMFU+rR7mZc2neirIck1tlJ\nFAptqqdAywKBgQDtCCwGnHuMdooOjN2bK/39/ZcdzQRZ47h+yM312CMDaAjF6lPS\n0ostvzhVyvpqyCiME0DVA8fJMpOyPtUFdpiKYrSjJmbAwjxSD6pqVNUqCN6ZcEGN\nnDGepuixQXobkR51srGwDRTWU4NiIZwkTOxbpZBMBbNjVrRlM6pq5LcwhwKBgFL7\nsTzPpTrN19s2RVh59KJpmmT5pQFwY8f54VK+D67kGP3erftNlW4B9Dt9+uRan3zH\nzEdVwk0mvUzskaxWmyP/zu5lzTZKiaRk4tdZ1OW4/OigeLm/VpSUb6fe09zo2b5/\nE7fcgMQ7mCZ0JiZWptYHSq8RG/XdmLXm+DFmtL69AoGBAN6h0rWaqqmecUz4SoiQ\nYtg3Ddf+VEP27TvJ71cZh4R4ksDeIw15FgjvxKkvcEAS4bfSVcQDe3cLhqI/JTBp\n0trtybmOiXjq8Axj/XAlu9Yg1BqexLc4WCOwM8hmo/W+yZ4Pb+Ejnw/Gb8Pf2SIN\nq19klqfTpnNys/VmYwDOQRc6\n-----END PRIVATE KEY-----\n",
+    "client_email": "speech-to-text-test@aadhaar-card-parsing.iam.gserviceaccount.com",
+    "client_id": "112517347685628267134",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text-test%40aadhaar-card-parsing.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
