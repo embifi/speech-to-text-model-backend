@@ -28,10 +28,10 @@ db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 db.once('open', () => {
   // console.log('Connected to MongoDB');
 });
-app.use(express.static(path.join(__dirname, './client/build')));
-app.get('*' , function(req,res){
-  res.sendFile(path.join(__dirname, "./client/build/index.html"));
-});
+// app.use(express.static(path.join(__dirname, 'server.js')));
+// app.get('*' , function(req,res){
+//   res.sendFile(path.join(__dirname, "server.js"));
+// });
 
 app.use(cors({
   origin:'*' 
