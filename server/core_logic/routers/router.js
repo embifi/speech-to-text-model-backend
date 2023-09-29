@@ -9,6 +9,7 @@ const transcriptApiController = require("../controllers/transcriptApi_controller
 router.use(express.json());
 
 
- router.post('/transcript',transcriptApiController.fetchDataFromTranscriptApi);
+ router.post('/transcript',transcriptApiController.fetchDataFromTranscriptApi); 
+// router.post('/https://4ndwqi8x1m.execute-api.ap-south-1.amazonaws.com//default/googleSpeechToTextApi',transcriptApiController.fetchDataFromLambda);
 
 module.exports = router;

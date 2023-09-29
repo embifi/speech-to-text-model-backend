@@ -5,10 +5,10 @@ const app = express();
 const routes = require('./core_logic/routers/router');
 const bodyParser = require('body-parser');
 const path = require('path');
-// const http = requir('http');
+// const http = requir('http'); 
 // const SocketIO =require('socket.io');
 
-
+ 
 const cors = require('cors'); // Import the cors package
 // app.use(bodyParser.json({ limit: '10mb' }));
 app.use(bodyParser.urlencoded({ extended: true, limit: '200mb' }));
@@ -19,7 +19,7 @@ mongoose
 // mongoose.connect('mongodb://localhost/Googlle-Api-Database', {
 //   useNewUrlParser: true,
 //   useUnifiedTopology: true,
-// });
+// }); 
 
 const db = mongoose.connection;
 
